@@ -1,0 +1,26 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.main-container {
+  width: 400px;
+  margin: 20px auto;
+  justify-content: center;
+}
+
+.btn a {
+  color: white;
+  text-decoration: none;
+}
+
+.btn a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+
